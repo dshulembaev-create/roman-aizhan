@@ -32,7 +32,7 @@ body { background: var(--bg); color: #fff; font-family: 'Inter', sans-serif; min
 .setup-btn:disabled { opacity: 0.4; cursor: default; }
 
 /* HERO */
-.hero { position: relative; min-height: 100vh; display: flex; flex-direction: column; overflow: hidden; background: url('/bg.png') center/cover no-repeat; }
+.hero { position: relative; min-height: 100vh; display: flex; flex-direction: column; overflow: hidden; background: url('/bg.jpg.jpg') center/cover no-repeat; }
 .hero-overlay { position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(0,0,0,.05) 0%, rgba(0,0,0,.15) 30%, rgba(0,0,0,.42) 62%, rgba(0,0,0,.74) 88%, rgba(0,0,0,.88) 100%); }
 .hero-bar { position: relative; z-index: 2; display: flex; justify-content: space-between; align-items: center; padding: 24px 36px; }
 .city-label { display: flex; flex-direction: column; align-items: center; gap: 5px; font-family: 'Cormorant Garamond', serif; }
